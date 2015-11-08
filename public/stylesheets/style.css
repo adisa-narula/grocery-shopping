@@ -1,0 +1,38 @@
+body {
+  padding: 50px;
+  font: 22px 'Josefin Sans', sans-serif;
+  text-align:left;
+  background-image: url("/images/food6.jpg");
+  background-size: cover;
+  color:#FBFBFB;
+}
+a {
+  /*color:#FF751A;*/
+  color:inherit;
+}
+div.checked{
+  text-decoration:line-through;
+}
+div.list-item{
+  background-color: #E5ECFF;
+  border-radius: 15px;
+  padding: 25px;
+  color:#0D0D0D;
+
+}
+
+div.home-page{
+  background-color: #E5ECFF;
+  border-radius: 15px;
+  padding: 25px;
+  color:#0D0D0D;
+}
+div.new-list{
+  background-color: #E5ECFF;
+  border-radius: 15px;
+  padding: 25px;
+  color:#0D0D0D;
+}
+div.links{
+  padding:20px;
+}
